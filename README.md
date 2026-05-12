@@ -32,30 +32,53 @@
 
 ## 🧑‍💻 My Developer Profile
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```python
-class NikhilKumar:
-    def __init__(self):
-        self.name        = "Nikhil Kumar"
-        self.role        = "Software Engineer"
-        self.location    = "India"
-        self.education   = "GNIOT — Greater Noida Institute of Technology"
+class Developer:
+    name      = "Nikhil Kumar"
+    role      = "Software Engineer"
+    location  = "India 🇮🇳"
+    education = "GNIOT, Greater Noida"
 
-        self.languages   = ["Python", "JavaScript", "SQL"]
-        self.backend     = ["Django", "Django REST Framework", "Node.js", "REST APIs"]
-        self.frontend    = ["React.js", "Tailwind CSS"]
-        self.databases   = ["PostgreSQL", "MySQL"]
-        self.tools       = ["Git", "GitHub", "Docker", "Postman", "VS Code"]
+    code      = ["Python", "JavaScript", "SQL"]
+    backend   = ["Django", "DRF", "Node.js"]
+    frontend  = ["React.js", "Tailwind"]
+    database  = ["PostgreSQL", "MySQL"]
+    tools     = ["Git", "Docker", "Postman"]
 
-        self.current_focus = [
-            "Data Structures & Algorithms",
-            "System Design",
-            "Backend Optimization",
-            "Scalable Production Applications"
-        ]
+    learning  = ["DSA", "System Design",
+                 "Backend Scaling"]
 
     def mission(self):
-        return "Build clean, scalable, real-world solutions."
+        return "Build clean, scalable solutions."
 ```
+
+</td>
+<td width="45%" valign="top">
+
+### 🎯 At a Glance
+
+| | |
+|---|---|
+| 🧑‍💻 **Role** | Software Engineer |
+| 🎓 **College** | GNIOT, Greater Noida |
+| 📍 **Location** | India |
+| 💻 **Stack** | Python · Django · React |
+| 🗄️ **DB** | PostgreSQL · MySQL |
+| 🚀 **Focus** | Scalable Backend Systems |
+| 🌱 **Learning** | DSA + System Design |
+| 📬 **Email** | infonik3121@gmail.com |
+
+<br/>
+
+> 💡 *"Clean code. Scalable systems. Real impact."*
+
+</td>
+</tr>
+</table>
 
 ---
 
