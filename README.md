@@ -1,96 +1,189 @@
-# 👋 Hi, I'm Nikhil Kumar
+# 🚀 Nikhil Kumar
 
-### 💻 Full Stack Developer | Python • Django • React • Node.js
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%7C+Django+%7C+React.js;Building+Scalable+Web+Applications;Backend+%26+Problem+Solving+Enthusiast" alt="Typing SVG" />
 
-## 🚀 Profile Summary
-
-I’m a developer focused on building **scalable, efficient, and real-world applications**.
-My core strength lies in combining **strong problem-solving (DSA)** with **full-stack development** to create systems that are both **functional and optimized**.
-
-Currently, I’m sharpening my **Data Structures & Algorithms using Python** while actively developing production-level applications.
+</div>
 
 ---
 
-## 🧠 Core Expertise
+## 👨‍💻 About Me
 
-* **Languages & Backend:** Python, Django, Node.js
-* **Frontend:** React.js, Tailwind CSS
-* **Database:** SQL (query optimization, relational design)
-* **Problem Solving:** Data Structures & Algorithms (Python)
+```python
+class NikhilKumar:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.location = "India"
 
----
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "SQL"
+        ]
 
-## ⚙️ What I Focus On
+        self.backend = [
+            "Django",
+            "REST APIs",
+            "Node.js"
+        ]
 
-* Writing **clean, maintainable, and scalable code**
-* Designing **efficient backend architectures**
-* Building **responsive and performant UIs**
-* Solving **complex algorithmic problems**
+        self.frontend = [
+            "React.js",
+            "Tailwind CSS"
+        ]
 
----
+        self.database = [
+            "PostgreSQL",
+            "MySQL"
+        ]
 
-## 📈 Current Growth
+        self.current_focus = [
+            "Data Structures & Algorithms",
+            "Backend Optimization",
+            "System Design",
+            "Scalable Applications"
+        ]
 
-```text
-✔ Mastering Data Structures & Algorithms (Python)
-✔ Improving system design thinking
-✔ Building real-world full-stack projects
-✔ Strengthening backend performance optimization
+    def build(self):
+        return "Clean • Scalable • Real-World Solutions"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 Profile Summary
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,tailwind,mysql" />
-</p>
+💡 Passionate about building **high-performance backend systems** and **modern full-stack applications**.
 
----
+⚡ Focused on writing **clean architecture**, building **REST APIs**, and solving **real-world problems** with scalable solutions.
 
-## 📊 GitHub Insights
+📚 Currently improving:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3121&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil3121&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+- Data Structures & Algorithms using Python
+- System Design fundamentals
+- Backend scalability & optimization
+- Production-level project development
 
 ---
 
-## 💡 Engineering Mindset
+# 🛠️ Tech Stack
 
-* Break problems into **smaller, solvable components**
-* Focus on **efficiency first, then scalability**
-* Write code that is **easy to read, test, and extend**
-* Continuously iterate and improve
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,django,react,nodejs,tailwind,postgresql,mysql,git,github,vscode" />
 
-## 🌐 Connect
-
-<p align="center">
-  <a href="mailto:infonik3121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/Kaaran_342">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+# ⚡ Core Skills
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Backend Development
+
+- Django
+- REST API Development
+- Authentication & Authorization
+- Database Design
+- Backend Optimization
+
+</td>
+
+<td width="50%">
+
+### 🔹 Frontend Development
+
+- React.js
+- Responsive UI Design
+- Tailwind CSS
+- Component Architecture
+- Modern UI Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Final Note
+# 📊 GitHub Analytics
 
-I aim to build systems that are not just working — but **robust, scalable, and impactful**.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhil3121&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil3121&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3121&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+# 🚀 What I’m Working On
+
+```text
+✔ Advanced Data Structures & Algorithms
+✔ Scalable Backend Architectures
+✔ Full Stack Web Applications
+✔ REST API Performance Optimization
+✔ Real-World Production Projects
+```
+
+---
+
+# 🧠 Engineering Mindset
+
+✨ Build systems that are:
+
+- Scalable
+- Maintainable
+- Efficient
+- User Focused
+- Performance Optimized
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:infonik3121@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/nikhil-kumar-113ab3243">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Nikhil3121">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nikhil3121/Nikhil3121/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 📌 Quote
+
+> "Great software is built with clean logic, scalable architecture, and continuous learning."
+
+---
+
+<div align="center">
+
+### ⭐ Building scalable solutions one project at a time.
+
+</div>
